@@ -1,42 +1,34 @@
-Hi,There  I’m Mathiarasi 
--  I’m  currently working on  MERN STACK projects
--  I’m currently learning cloud computing (AWS)
--  I’m looking to collaborate on handson web development project
+<h1 align="center">Hi 👋, I'm Mathiarasi</h1>
+<h3 align="center">A passionate Full Stack Developer💖</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathiarasi-nagaraj&label=Profile%20views&color=0e75b6&style=flat" alt="mathiarasi-nagaraj" /> </p>
 
-Connect with me :
--  mathi2002nagaraj@gmail.com
--  https://t.me/Mathiarasi_Nagaraj
--  https://www.linkedin.com/in/mathiarasi-nagaraj-4032b71b6/
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathiarasi-nagaraj" alt="mathiarasi-nagaraj" /></a> </p>
 
+- 🔭 I’m currently working on **Full Stack MERN projects**
 
-Programming Languages  Known  :
- 
-  ![image](https://user-images.githubusercontent.com/69353674/136579877-9efde6d8-c8b7-4832-bab6-ce4f6735a35d.png)    ![image](https://user-images.githubusercontent.com/69353674/136580163-851a3c23-de44-405a-bd21-b8f46ff9596e.png)   ![image](https://user-images.githubusercontent.com/69353674/136582342-4735d42b-335c-4e86-8bb9-c5c84d48357d.png)
-  
- Webdevelopment  :
- 
- ![image](https://user-images.githubusercontent.com/69353674/136580413-5c3d336f-aa60-4131-9fdb-1b2b28d201e9.png)    ![image](https://user-images.githubusercontent.com/69353674/136580607-729c703f-374b-4272-a674-c57a6de4f90f.png)   ![image](https://user-images.githubusercontent.com/69353674/136581198-79102de6-b7b3-43aa-8eb3-1047068d3e8a.png)    ![image](https://user-images.githubusercontent.com/69353674/136581888-4595a547-d061-4dd1-b175-3faa31f4fda2.png)
- ![image](https://user-images.githubusercontent.com/69353674/136581378-ce8558e9-1c9b-418f-81e6-87f61a7da5b6.png)   ![image](https://user-images.githubusercontent.com/69353674/136581595-c3a91434-2562-47d4-9a74-ea11a83327b7.png)   ![image](https://user-images.githubusercontent.com/69353674/136579459-37dd0e36-45c3-42e7-b245-af62397d9d10.png)    ![image](https://user-images.githubusercontent.com/69353674/136582107-6c8aee38-9820-42aa-971a-408ee1357af1.png)
+- 🌱 I’m currently learning **Cloud computing and devops**
 
+- 👯 I’m looking to collaborate on **full stack development projects**
 
-Tools Known   :
+- 💬 Ask me about **React,redux,Node,express**
 
-![image](https://user-images.githubusercontent.com/69353674/136582688-f8585aa4-74e8-498b-bd9b-683342a75e28.png)   ![image](https://user-images.githubusercontent.com/69353674/136582830-9479bd6b-2ac7-4236-9a55-099118ceac0b.png)   ![image](https://user-images.githubusercontent.com/69353674/136584793-146e1292-ca92-49f1-a9b7-d75f4624edda.png)
+- 📫 How to reach me **mathiarasinagaraj05@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mathiarasinagaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mathiarasinagaraj" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mathiarasi05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mathiarasi05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mathiarasinagaraj05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mathiarasinagaraj05" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mathiarasinagaraj05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mathiarasinagaraj05" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathiarasi-nagaraj&show_icons=true&locale=en&layout=compact" alt="mathiarasi-nagaraj" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathiarasi-nagaraj&show_icons=true&locale=en" alt="mathiarasi-nagaraj" /></p>
 
-
-
-
-
-
-
-
-
-<!---
-Mathiarasi5/Mathiarasi5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathiarasi-nagaraj&" alt="mathiarasi-nagaraj" /></p>
